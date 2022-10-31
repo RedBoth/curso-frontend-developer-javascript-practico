@@ -6,7 +6,7 @@ const shoppingCartMenu = document.querySelector('.product-detail');
 const shoppingCartImage = document.querySelector('.navbar-shopping-cart');
 const cardsContainer = document.querySelector('.cards-container');
 const productDetailCloseIcon = document.querySelector('.product-detail-close');
-const productDetailContainer = document.querySelector('.product-detail-product');
+const productDetailContainer = document.querySelector('.product-detail-container');
 
 menuEmail.addEventListener('click', toggleDesktopMenu);
 burgerMenu.addEventListener('click', toggleMobileMenu);
